@@ -1,1 +1,1 @@
-# Game-of-Throne
+# Game-of-Thrones
